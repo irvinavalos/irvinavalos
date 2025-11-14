@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm [Irvin] 👋
 
 <!--
 **irvinavalos/irvinavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an undergrad at UC Berkeley, studying Math and Computer Science.
+
+I'm very interested in the intersection between Machine Learning and Hardware, specifically in the design of accelerators and [deep learning architectures](https://arxiv.org/abs/1410.0759).
+
+On the off chance I step away from the terminal, I enjoy playing:
+
+* Counter-Strike 2
+* Balatro
+* Civilization VI
