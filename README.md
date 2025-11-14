@@ -21,8 +21,8 @@ I enjoy learning about Machine Learning and Hardware. My current interests lie i
 
 If you want to learn more about AI/ML, feel free to check out my [notes](https://github.com/irvinavalos/uni-course-notes).
 
-At the moment I enjoy playing:
+**Fun facts**:
 
-* Counter-Strike 2
-* Balatro
-* Civilization VI
+* I have a pet rabbit
+* Interstellar is my favorite film
+* **Hobbies**: sitcoms, gym, neovim 🤦
