@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm an undergrad at UC Berkeley, studying Math and Computer Science.
 
-I'm very interested in the intersection between Machine Learning and Hardware, specifically in the design of accelerators and [deep learning architectures](https://arxiv.org/abs/1410.0759).
+I enjoy learning about Machine Learning and Hardware. My interests lie in the design of accelerators and [deep learning architectures](https://arxiv.org/abs/1410.0759).
 
 On the off chance I step away from the terminal, I enjoy playing:
 
