@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an undergrad at UC Berkeley, studying Math and Computer Science.
+I'm Irvin an undergrad at UC Berkeley, studying Math and Computer Science.
 
 I enjoy learning about Machine Learning and Hardware. My current interests lie in the design of accelerators and [deep learning architectures](https://arxiv.org/abs/1410.0759).
 
