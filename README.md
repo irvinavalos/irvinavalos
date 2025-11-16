@@ -20,9 +20,3 @@ I'm Irvin an undergrad at UC Berkeley, studying Math and Computer Science.
 I enjoy learning about Machine Learning and Hardware. My current interests lie in the design of accelerators and [deep learning architectures](https://arxiv.org/abs/1410.0759).
 
 If you want to learn more about AI/ML, feel free to check out my [notes](https://github.com/irvinavalos/uni-course-notes).
-
-**Fun facts**:
-
-* I have a pet rabbit
-* Interstellar is my favorite film
-* **Hobbies**: sitcoms, gym, neovim 🤦
