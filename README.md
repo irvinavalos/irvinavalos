@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Irvin an undergrad at UC Berkeley, studying Math and Computer Science.
+I'm an undergrad at UC Berkeley, studying Stats and Computer Science.
 
 Right now I'm reading [this](https://arxiv.org/abs/2205.14135)
