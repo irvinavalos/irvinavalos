@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Yo
 
 <!--
 **irvinavalos/irvinavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 I'm Irvin an undergrad at UC Berkeley, studying Math and Computer Science.
 
-I enjoy learning about Machine Learning and Hardware. My current interests lie in the design of accelerators and [deep learning architectures](https://arxiv.org/abs/1410.0759).
-
-If you want to learn more about math, CS, or AI/ML please feel free to check out my [notes](https://github.com/irvinavalos/uni-course-notes).
+Right now I'm reading [this](https://arxiv.org/abs/2205.14135)
